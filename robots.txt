@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://unoxeoju.github.io/ECf/sitemap_index.txt
+Sitemap: https://unoxeoju.github.io/FDW/sitemap_index.txt
+Sitemap: https://unoxeoju.github.io/ZMO/sitemap_index.txt
+Sitemap: https://unoxeoju.github.io/lBf/sitemap_index.txt
